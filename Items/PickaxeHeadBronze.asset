@@ -22,6 +22,6 @@ MonoBehaviour:
   buyPrice: 0
   stores: []
   DependsOnBeforeBuyingItem: {fileID: 0}
-  isUnlockable: 1
-  maximumTimesOwned: 1
+  isUnlockable: 0
+  maximumTimesOwned: 0
   type: 
